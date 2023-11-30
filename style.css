@@ -1,6 +1,12 @@
-.button-content{
+.button-content {
     font-size: 16px;
-   
     background-color: #ef5c26;
     border: 1px solid #f0f1f3;
 }
+
+.productImageUploader {
+    border: 1px dotted #d5dadf;
+    width: 300px !important;
+    height: 200px !important;
+}
+
